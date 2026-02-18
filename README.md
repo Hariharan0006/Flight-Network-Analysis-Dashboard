@@ -2,4 +2,5 @@
 
 ![Home Page](sample_1.png)
 ![Recommendation Result](sample_2.png)
-![Recommendation Result](sample_3.png)
+![Results](sample_3.png)
+
